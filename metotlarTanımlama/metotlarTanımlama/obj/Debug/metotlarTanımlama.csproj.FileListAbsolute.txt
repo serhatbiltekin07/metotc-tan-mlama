@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\bin\Debug\metotlarTanımlama.exe.config
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\bin\Debug\metotlarTanımlama.exe
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\bin\Debug\metotlarTanımlama.pdb
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\obj\Debug\metotlarTanımlama.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\obj\Debug\metotlarTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\obj\Debug\metotlarTanımlama.exe
+C:\Users\user\Desktop\Pratikler\metotlarTanımlama\metotlarTanımlama\obj\Debug\metotlarTanımlama.pdb
